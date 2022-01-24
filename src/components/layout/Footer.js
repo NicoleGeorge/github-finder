@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className='footer p-10 bg-gray-700 text-primary-content footer-center'>
       <FcLikePlaceholder className='mb-0'/>
-      <p> Cppyright &copy; {year} All rights reserved.</p>
+      <p> Github Finder &copy; {year} All rights reserved.</p>
     </footer>
   );
 };
